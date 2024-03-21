@@ -12,7 +12,7 @@ Why did you build this project?
 To prove to myself i could be given a task and complete it to the best of my ability to make it presentable and usable.
 
 What problem does it solve? 
-Of trying to plan youyr day now you have a planner to plan your activities everyday
+Of trying to plan your day now you have a planner to plan your activities everyday
 
 What did you learn? 
 I learned how to use css with html to make a website the using json and js to backend then using local strage to save and parse data.
